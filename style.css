@@ -1,0 +1,139 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+h1{
+    font-family: 'Montserrat-Black';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+
+    
+}
+.navbar-brand{
+    font-family: 'ubuntu';
+    font-size: 2.5rem;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding : 0 18px;
+}
+.nav-link{
+    font-family: 'Montserrat-light';
+    font-size: 1.2rem;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.btn{
+    margin : 5% 3% 5% 0 ;
+}
+body{
+    font-family: 'Montserrat';
+    padding: 2%;
+}
+.iphone{
+    width: 60%;
+    transform: rotate(25deg);
+    position: relative;
+    left: 20%;
+    top: 8%;
+}
+.fa-4x{
+    color: #ef8172;
+    padding: 10% 0 5% 0;
+    
+}
+.fa-4x:hover{
+    color: #ff4c68;
+}
+h3{
+    font-family: 'Montserrat-bold';
+    font-size: 1.75rem;
+}
+.fp{
+    color: #8f8f8f; 
+    font-size: 1rem;
+}
+ #features{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    bottom:9.9rem;
+  
+ }
+ #testimonials{
+    background-color: #ef8172;
+    font-family: 'Montserrat-bold';
+    text-align: center;
+    line-height: 1.5;
+    color: #fff;
+    padding: 8rem 5rem;
+    
+ }
+ h2{
+    margin : 0 20%;
+    font-size: 2rem;
+    font-weight: 800;
+ }
+.dog-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 2rem;
+ }
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-img{
+    width: 15%;
+    margin: 0 4%;
+}
+#pricing{
+    padding : 100px;
+    text-align: center;
+    
+}
+.pricing-colum{
+    padding: 3% 2%;
+}
+#cta{
+ 
+   text-align: center;
+   background-color: #ff4c68;
+}
+.lst{
+    
+    font-family: 'Montserrat-bold';
+    font-weight: 800;
+    font-size: 3.5rem;
+    color: #fff;
+    padding: 5% 0 0 0;
+    
+}
+footer{
+    text-align: center;
+    padding: 7% 15% 0 15%;
+}
+.fa{
+    padding:0 2% ;
+}
+.footer-p{
+    padding-top: 1%;
+    color: #8f8f8f;
+}
+.error{
+    
+    line-height: 4rem;
+}
+.error-heading{
+    font-size: 2.8rem;
+}
+.row{
+    padding: 2%;
+}
